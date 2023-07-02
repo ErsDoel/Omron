@@ -1,0 +1,2 @@
+# Omron
+Comm Simulation Mode
