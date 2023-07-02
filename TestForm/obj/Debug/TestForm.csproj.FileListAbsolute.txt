@@ -1,0 +1,26 @@
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe.config
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.TestForm.exe.config
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.pdb
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\ActiproSoftware.Shared.Wpf.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\ActiproSoftware.SyntaxEditor.Wpf.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\ActiproSoftware.Text.LLParser.Wpf.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\ActiproSoftware.Text.Wpf.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\CNCOperator.Editor.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\Omron.Hmi.Communication.Driver.Interface.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\Omron.Hmi.Communication.Driver.Interface.Ide.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\Omron.Hmi.Communication.Utility.Common.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\OmronCnc.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\OmronNjHttpEthernetCommDriver.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\STSdb4.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\PerformanceCounter.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\HttpClient.dll
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.exe
+d:\users\kazmer\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.pdb
+D:\Users\kazmer\Desktop\C#-sİM\TestForm\TestForm\bin\Debug\TestForm.exe.config
+D:\Users\kazmer\Desktop\C#-sİM\TestForm\TestForm\obj\Debug\TestForm.exe
+D:\Users\kazmer\Desktop\C#-sİM\TestForm\TestForm\obj\Debug\TestForm.pdb
